@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.PitchTuner" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#101010</item>
+        <item name="colorPrimaryDark">#000000</item>
+        <item name="colorAccent">#66CCFF</item>
+    </style>
+</resources>
